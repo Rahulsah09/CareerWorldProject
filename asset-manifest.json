@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CareerWorldProject/static/css/main.3b71cc2a.css",
+    "main.js": "/CareerWorldProject/static/js/main.fd25cfde.js",
+    "static/js/453.83b1b442.chunk.js": "/CareerWorldProject/static/js/453.83b1b442.chunk.js",
+    "index.html": "/CareerWorldProject/index.html",
+    "main.3b71cc2a.css.map": "/CareerWorldProject/static/css/main.3b71cc2a.css.map",
+    "main.fd25cfde.js.map": "/CareerWorldProject/static/js/main.fd25cfde.js.map",
+    "453.83b1b442.chunk.js.map": "/CareerWorldProject/static/js/453.83b1b442.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b71cc2a.css",
+    "static/js/main.fd25cfde.js"
+  ]
+}
